@@ -1,7 +1,7 @@
 ## Hello World
 
 - 🔭 I’m currently working at Accela Inc.
-- 🌱 I’m currently learning Azure, Automation, and Containers
+- 🌱 I’m currently learning Azure, DevOps, and Containers
 - 👯 I’m looking to collaborate on an open source SSL Certificate Management WebApp
 - 😄 Pronouns: He/Him/His
 
